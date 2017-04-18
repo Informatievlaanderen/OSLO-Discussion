@@ -10,7 +10,7 @@ Zie ook [OSLO² op Vlaanderen.be](https://overheid.vlaanderen.be/producten-diens
 
 ## Deze repository
 
-Deze repository dient om de [publieke discussies over OSLO²](https://github.com/Informatievlaanderen/OSLO/issues) bij te houden. De voorafgaande interne discussies kan men [hier](https://informatievlaanderen.github.io/OSLO) terugvinden.
+Deze repository diende om de [publieke discussies over OSLO²](https://github.com/Informatievlaanderen/OSLO/issues) bij te houden tijdens een publieke reviewperiode die liep van januari 2017 tot en met maart 2017. De voorafgaande interne discussies kan men [hier](https://informatievlaanderen.github.io/OSLO) terugvinden. Tijdens de periode april 2017 tot en met september 2017, de periode waarin de OSLO²-standaard het statuut van een kandidaat standaard heeft, blijft deze repository beschikbaar voor opmerkingen.
 
 ## Gerelateerde repositories
 
