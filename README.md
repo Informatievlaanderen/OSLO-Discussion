@@ -12,11 +12,11 @@ Deze repository heeft als doel het bijhouden van inhoudelijke en semantische vra
 - **Standaarden in behandeling (kandidaat-standaarden)**: de thematische werkgroep heeft een stabiele specificatie uitgewerkt die een consensus onder de deelnemers vertegenwoordigd. Gedurende een vastgelegde publieke reviewperiode wordt gezocht naar implementatie-ervaring en feedback die daaruit voortvloeit. Alle feedback wordt behandeld op het einde van de publieke reviewperiode.
 - **Standaarden in gebruik (standaarden)**: de product owner van de standaard volgt nieuwe issues op. Indien er voldoende aanleiding is kan beslist worden om het werk te starten aan een nieuwe versie van de standaard op basis van de ontvangen feedback. Hiervoor zal een nieuw publiek ontwikkeltraject gevolgd worden.
 
-Meer informatie over het achterliggende governance proces voor OSLO standaarden is terug te vinden in het document '^[Proces en methode voor de ontwikkeling en erkenning van data standaarden](https://data.vlaanderen.be/cms/Proces_en_methode_voor_de_erkenning_van_datastandaarden_v1.0.pdf)'
+Meer informatie over het achterliggende governance proces voor OSLO standaarden is terug te vinden in het document '[Proces en methode voor de ontwikkeling en erkenning van data standaarden](https://data.vlaanderen.be/cms/Proces_en_methode_voor_de_erkenning_van_datastandaarden_v1.0.pdf)'
 
 ## Gerelateerde repositories
 
-- [OSLO-Standaarden](https://informatievlaanderen.github.io/OSLO) bevat een overzicht van alle OSLO standaarden en hun fase in de levenscyclus.
+- [OSLO-Standaarden](https://informatievlaanderen.github.io/OSLO): bevat een overzicht van alle OSLO standaarden en hun fase in de levenscyclus.
 - [Data.Vlaanderen.be](https://github.com/Informatievlaanderen/Data.Vlaanderen.be): bevat alle bronbestanden die compileerd worden tot de specificaties die terug te vinden zijn op https://data.vlaanderen.be/
 - [OSLO-EA-to-RDF](https://github.com/Informatievlaanderen/OSLO-EA-to-RDF): de tool die RDF genereert op basis van de OSLO UML diagrammen.
 - [OSLO-SpecificatioGenerator](https://github.com/Informatievlaanderen/OSLO-SpecificationGenerator): de tool die de HTML pagina's voor de standaarden op https://data.vlaanderen.be/ genereert.
