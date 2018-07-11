@@ -7,7 +7,7 @@ Vele (publieke) organisaties houden allerhande gegevens en wisselen die onderlin
 
 ## Deze repository
 
-Deze repository heeft als doel het bijhouden van inhoudelijke en semantische vragen en issues met betrekking tot de verschillende OSLO standaarden. Feedback kan ten allen teiden gegeven worden, maar de behandeling ervan is afhankelijk van de levenscyclusfase waarin een standaard zich bevindt:
+Deze repository heeft als doel het bijhouden van inhoudelijke en semantische vragen en issues met betrekking tot de verschillende OSLO standaarden. Feedback kan te allen teiden gegeven worden, maar de behandeling ervan is afhankelijk van de levenscyclusfase waarin een standaard zich bevindt:
 - **Standaarden in ontwikkeling (ontwerpdocumenten)**: een thematische werkgroep werkt iteratief aan de specificatie tussen de verschillende werksessies door. De ontvangen feedback wordt meegenomen in de geplande werksessie.
 - **Standaarden in behandeling (kandidaat-standaarden)**: de thematische werkgroep heeft een stabiele specificatie uitgewerkt die een consensus onder de deelnemers vertegenwoordigd. Gedurende een vastgelegde publieke reviewperiode wordt gezocht naar implementatie-ervaring en feedback die daaruit voortvloeit. Alle feedback wordt behandeld op het einde van de publieke reviewperiode.
 - **Standaarden in gebruik (standaarden)**: de product owner van de standaard volgt nieuwe issues op. Indien er voldoende aanleiding is kan beslist worden om het werk te starten aan een nieuwe versie van de standaard op basis van de ontvangen feedback. Hiervoor zal een nieuw publiek ontwikkeltraject gevolgd worden.
