@@ -16,7 +16,7 @@ Meer informatie over het achterliggende governance proces voor OSLO standaarden 
 
 ## Gerelateerde repositories
 
-- [OSLO-Standaarden](https://informatievlaanderen.github.io/OSLO): bevat een overzicht van alle OSLO standaarden en hun fase in de levenscyclus.
+- [OSLO-Standaarden](https://github.com/Informatievlaanderen/OSLO-Standaarden): bevat een overzicht van alle OSLO standaarden en hun fase in de levenscyclus.
 - [Data.Vlaanderen.be](https://github.com/Informatievlaanderen/Data.Vlaanderen.be): bevat alle bronbestanden die compileerd worden tot de specificaties die terug te vinden zijn op https://data.vlaanderen.be/
 - [OSLO-EA-to-RDF](https://github.com/Informatievlaanderen/OSLO-EA-to-RDF): de tool die RDF genereert op basis van de OSLO UML diagrammen.
 - [OSLO-SpecificatioGenerator](https://github.com/Informatievlaanderen/OSLO-SpecificationGenerator): de tool die de HTML pagina's voor de standaarden op https://data.vlaanderen.be/ genereert.
